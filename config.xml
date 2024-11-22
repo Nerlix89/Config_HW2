@@ -1,0 +1,6 @@
+<config>
+    <visualizerPath>C:\Program Files\Graphviz\bin\dot.exe</visualizerPath>
+    <repositoryPath>C:\Users\Игорь\Documents\ПИРКЧИР Практики\Игровая вселенная Ведьмак</repositoryPath>
+    <outputFile>C:\Users\Игорь\PycharmProjects\ConfigHW2\OutputFiles\dependency_graph</outputFile>
+    <startDate>2023-01-01</startDate>
+</config>
